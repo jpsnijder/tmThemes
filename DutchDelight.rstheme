@@ -60,14 +60,12 @@
   color: #000000;
 }
 .ace_string {
-  color: #2BA300;
+  color: #EB1212;
 }
 .ace_comment {
-  font-style: italic;
   color: #0474CFD6;
 }
 .ace_comment.ace_doc {
-  font-style: italic;
   color: #0474CFD6;
 }
 .ace_comment.ace_doc.ace_tag {
@@ -75,7 +73,8 @@
   color: #0474CFD6;
 }
 .ace_constant.ace_numeric {
-  color: #E03C3C;
+  font-style: bold;
+  color: #559D00;
 }
 .ace_variable {
   color: #0074E0
